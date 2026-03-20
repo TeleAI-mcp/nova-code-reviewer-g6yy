@@ -1,2 +1,3 @@
-# nova-code-reviewer-g6yy
-Automated issue comment bot repository
+# Nova Code Reviewer G6Yy
+
+Automated issue comment bot repository.
